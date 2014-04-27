@@ -8,6 +8,6 @@ package com.cgs.test;
  *
  */
 public class TestClass {
-	// This is a test
+	// This is a test urs
 
 }
